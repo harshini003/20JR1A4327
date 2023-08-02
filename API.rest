@@ -1,4 +1,4 @@
-GET http://104.211.219.98/numbers/rand
+GET http://104.211.219.98/numbers
 
  HTTP/1.1 200 OK
  Date: wed, 02 Aug 2023 11:54 IST
